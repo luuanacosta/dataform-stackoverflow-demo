@@ -2,6 +2,6 @@
     "defaultSchema": "dataform_stackoverflow",
     "assertionSchema": "dataform_stackoverflow_assertions",
     "warehouse": "bigquery",
-    "defaultDatabase": "stackoverflow",
+    "defaultDatabase": "andresousa-c6bank",
     "defaultLocation": "US"
 }

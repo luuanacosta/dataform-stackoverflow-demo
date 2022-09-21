@@ -1,6 +1,6 @@
 config {
   type: "declaration",
-  database: "stackoverflow",
+  database: "andresousa--xyz-experimental",
   schema: "stackoverflow",
   name: "posts_questions",
   description: "raw posts_questions table"

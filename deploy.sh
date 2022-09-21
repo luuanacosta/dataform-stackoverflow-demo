@@ -1,5 +1,9 @@
 #!/bin/bash
 
 dataform install
-echo '{"projectId": "andresousa-c6bank", "location": "US"}' > .df-credentials.json
+<<<<<<< HEAD
+echo '{"projectId": "andresousa--xyz-experimental", "location": "US"}' > .df-credentials.json
+=======
+echo '{"projectId": "andresousa--xyz-experimental", "location": "EU"}' > .df-credentials.json
+>>>>>>> refs/heads/stackoverflow-workspace
 dataform run

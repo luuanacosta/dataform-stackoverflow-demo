@@ -2,6 +2,6 @@
     "warehouse": "bigquery",
     "defaultDatabase": "andresousa--xyz-experimental",
     "defaultSchema": "dataform_stackoverflow",
-    "defaultLocation": "US",
+    "defaultLocation": "EU",
     "assertionSchema": "dataform_stackoverflow_assertions"
 }

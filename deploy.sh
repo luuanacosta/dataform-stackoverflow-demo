@@ -1,5 +1,5 @@
 #!/bin/bash
 
 dataform install
-echo '{"projectId": "andresousa-c6bank", "location": "US"}' > .df-credentials.json
+echo '{"projectId": "andresousa--xyz-experimental", "location": "EU"}' > .df-credentials.json
 dataform run

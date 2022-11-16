@@ -1,6 +1,6 @@
 {
     "warehouse": "bigquery",
-    "defaultDatabase": "andresousa--xyz-experimental",
+    "defaultDatabase": "andresousa-c6bank",
     "defaultSchema": "dataform_stackoverflow",
     "defaultLocation": "US",
     "assertionSchema": "dataform_stackoverflow_assertions"

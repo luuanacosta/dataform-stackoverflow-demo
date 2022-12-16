@@ -1,6 +1,6 @@
 config {
   type: "declaration",
-  database: "andresousa-c6bank",
+  database: "andresousa--xyz-experimental",
   schema: "stackoverflow",
   name: "users",
   description: "raw users table"

@@ -1,6 +1,6 @@
 config {
   type: "declaration",
-  database: "andresousa--xyz-experimental",
+  database: "andresousa-experimental",
   schema: "stackoverflow",
   name: "badges",
   description: "raw badges table"

@@ -1,7 +1,7 @@
 {
     "warehouse": "bigquery",
-    "defaultDatabase": "neural-store-348314",
-    "defaultSchema": "dataform_stackoverflow",
+    "defaultDatabase": "data2023-387221",
+    "defaultSchema": "demo_dataform",
     "defaultLocation": "US",
     "assertionSchema": "dataform_stackoverflow_assertions"
 }

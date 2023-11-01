@@ -1,7 +1,7 @@
 config {
   type: "declaration",
-  database: "neural-store-348314",
-  schema: "stackoverflow",
+  database: "data2023-387221",
+  schema: "demo_dataform",
   name: "posts_questions",
   description: "raw posts_questions table"
 }
